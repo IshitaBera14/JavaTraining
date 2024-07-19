@@ -10,6 +10,7 @@ public class Employee1
         e.setSalary("10K");
         System.out.println(e);
 
+
     }
 
 

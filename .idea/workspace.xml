@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93815942-1f0e-4fd7-ae35-cfd17d491b19" name="Changes" comment="evennumber">
-      <change afterPath="$PROJECT_DIR$/src/Day2_18july/DemoVehicle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_18july/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_18july/Employee1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_18july/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaTraining" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2_18july/Employee1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2_18july/Employee1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
